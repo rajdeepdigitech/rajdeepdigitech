@@ -18,17 +18,3 @@
 ### Desktop & System Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Hyprland](https://img.shields.io/badge/Hyprland-WM-green?style=for-the-badge) ![QuickShell](https://img.shields.io/badge/QuickShell-Shell-orange?style=for-the-badge)
 
----
-
-## GitHub Statistics
-
-### Overall Stats
-![](https://github-readme-stats.shion.dev/api?username=rajdeepdigitech&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-### Most Used Languages
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rajdeepdigitech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 📈 Visitor Count
-[![](https://komarev.com/ghpvc/?username=rajdeepdigitech&icon=0&color=0)](https://visitcount.itsvg.in)
